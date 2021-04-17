@@ -1,0 +1,31 @@
+body{
+    background-color: darkslategray;
+}
+
+.display-4 a{
+    color: rgb(99, 189, 189);
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.lead{
+    font-size: 20pt;
+    font-style: italic;
+    font-family: cursive fantasy sans-serif serif;
+    color: grey;
+    white-space: nowrap;
+}
+
+.C1, .C2, .C3{
+    font-family: serif; color:white;
+}
+
+.C1 h3, .C2 h3, .C3 h3{
+    font-size: 25px;
+}
+
+blockquote{
+    color: gray; font-weight: bold; font-family: cursive;
+    white-space: normal;
+}
